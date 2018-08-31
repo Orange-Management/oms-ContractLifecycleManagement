@@ -4,7 +4,7 @@
  *
  * PHP Version 7.2
  *
- * @package    Modules\InvestmentManagement\Admin
+ * @package    Modules\ContractLifecycleManagement\Admin
  * @copyright  Dennis Eichhorn
  * @license    OMS License 1.0
  * @version    1.0.0
@@ -12,7 +12,7 @@
  */
 declare(strict_types=1);
 
-namespace Modules\InvestmentManagement\Admin;
+namespace Modules\ContractLifecycleManagement\Admin;
 
 use phpOMS\DataStorage\Database\DatabasePool;
 use phpOMS\Module\UpdaterAbstract;
@@ -22,7 +22,7 @@ use phpOMS\Module\InfoManager;
 /**
  * Updater class.
  *
- * @package    Modules\InvestmentManagement\Admin
+ * @package    Modules\ContractLifecycleManagement\Admin
  * @license    OMS License 1.0
  * @link       http://website.orange-management.de
  * @since      1.0.0
